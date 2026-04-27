@@ -260,48 +260,11 @@ Instead of manually designing network architectures, DARTS treats architecture s
 ✅ Cannot rely on cloud connectivity  
 ✅ Want to avoid expensive NPU/TPU hardware  
 
----
-
-## 📖 Documentation
-
-Detailed documentation available in the `/docs` folder:
-
-- **[Architecture Guide](docs/architecture.md)**: Deep dive into DARTS and pruning
-- **[Hardware Setup](docs/raspberry-pi-setup.md)**: Raspberry Pi configuration
-- **[Benchmarking Guide](docs/benchmarking.md)**: Performance measurement protocols
-- **[API Reference](docs/api.md)**: Code documentation
-- **[Research Paper](VerificationFinal.pdf)**: Full technical report (103 pages)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Areas for Contribution
-- Additional baseline models (ResNet, SqueezeNet, etc.)
-- Other target hardware (Jetson Nano, Coral Edge TPU)
-- Alternative pruning methods (magnitude pruning, gradual pruning)
-- Quantization techniques (PTQ, QAT)
-- Extended datasets (ImageNet, COCO, etc.)
-
----
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/edge-ai-optimization/issues)
-- **Research Paper**: Full details in `VerificationFinal.pdf`
-
----
 
 ## 🙏 Acknowledgments
 
@@ -313,22 +276,6 @@ This research project builds upon foundational work in:
 
 Special thanks to the open-source ML community and edge computing researchers.
 
----
-
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@techreport{edge-ai-optimization-2026,
-  title={Edge AI Optimization Pipeline: Neural Architecture Search and Model Compression for Resource-Constrained Hardware},
-  author={Your Name},
-  year={2026},
-  institution={Your Institution}
-}
-```
-
----
 
 ## 🔮 Future Work
 

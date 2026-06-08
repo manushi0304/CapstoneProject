@@ -291,8 +291,3 @@ Special thanks to the open-source ML community and edge computing researchers.
 
 <div align="center">
 
-**[⬆ Back to Top](#edge-ai-optimization-pipeline)**
-
-Made with ❤️ for Edge AI
-
-</div>
